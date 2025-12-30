@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "productName": "Minuman 1",
+      "price": 13000,
+      "stock": 9,
+      "id": "f95a"
+    },
+    {
+      "productName": "Minuman 2",
+      "price": 12000,
+      "stock": 6,
+      "id": "36c2"
+    },
+    {
+      "id": "1989",
+      "productName": "Minuman 3",
+      "price": 15000,
+      "stock": 5
+    },
+    {
+      "id": "918c",
+      "productName": "Minuman 4",
+      "price": 11000,
+      "stock": 3
+    },
+    {
+      "productName": "Minuman 5",
+      "price": 10000,
+      "stock": 19,
+      "id": "940c"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "4716",
+      "productId": "940c",
+      "productName": "Minuman 5",
+      "price": 10000,
+      "paid": 49000,
+      "change": 39000,
+      "date": "2025-12-30T10:41:36.944Z"
+    },
+    {
+      "id": "44c3",
+      "productId": "f95a",
+      "productName": "Minuman 1",
+      "price": 13000,
+      "paid": 55000,
+      "change": 42000,
+      "date": "2025-12-30T10:46:06.395Z"
+    },
+    {
+      "id": "59a8",
+      "productId": "36c2",
+      "productName": "Minuman 2",
+      "price": 12000,
+      "paid": 55000,
+      "change": 43000,
+      "date": "2025-12-30T12:29:36.114Z"
+    },
+    {
+      "id": "a6c8",
+      "productId": "f95a",
+      "productName": "Minuman 1",
+      "price": 13000,
+      "paid": 50000,
+      "change": 37000,
+      "date": "2025-12-30T12:49:05.622Z"
+    },
+    {
+      "id": "e174",
+      "productId": "f95a",
+      "productName": "Minuman 1",
+      "price": 13000,
+      "paid": 37000,
+      "change": 24000,
+      "date": "2025-12-30T12:49:10.278Z"
+    },
+    {
+      "id": "e5be",
+      "productId": "f95a",
+      "productName": "Minuman 1",
+      "price": 13000,
+      "paid": 24000,
+      "change": 11000,
+      "date": "2025-12-30T12:49:10.887Z"
+    }
+  ]
+}
